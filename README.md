@@ -1,12 +1,12 @@
 # retail-management-system
-Retail Management using C#.Net and phpMyAdmin Database.
-This project is a part of Database subject was built in 2017 (my 2nd year in Khon Kaen University)
+Retail Management using C#.Net and phpMyAdmin Database.</br>
+This project is a part of Database subject was built in 2017 (my 2nd year in Khon Kaen University)</br>
 
 This project is fully functional in the lists following below,but still need improve in many ways including security, clean code , tabase design itself and user interface etc.
-
+</br>
 
 ![Relational Database](./relational.PNG?raw=true "Relational")
-
+</br>
 The system have functionalities inccluding the following 
 1.) Employee 
 * Store Management
