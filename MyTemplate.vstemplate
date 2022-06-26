@@ -1,0 +1,138 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>retail-management-system</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>retail-management-system</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.png</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="cooperative.csproj" File="cooperative.csproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="adddiv.cs">adddiv.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="adddiv.Designer.cs">adddiv.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="adddiv.resx">adddiv.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="addproduct.cs">addproduct.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="addproduct.Designer.cs">addproduct.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="addproduct.resx">addproduct.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="addsup.cs">addsup.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="addsup.Designer.cs">addsup.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="addsup.resx">addsup.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="addsupdetail.cs">addsupdetail.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="addsupdetail.Designer.cs">addsupdetail.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="addsupdetail.resx">addsupdetail.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="App.config">App.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Buy.cs">Buy.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Buy.Designer.cs">Buy.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Buy.resx">Buy.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="ClassDiagram1.cd">ClassDiagram1.cd</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Connect.cs">Connect.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="databill.cs">databill.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="databill.Designer.cs">databill.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="databill.resx">databill.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="dataem.cs">dataem.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="dataem.Designer.cs">dataem.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="dataem.resx">dataem.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="datamemse.cs">datamemse.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="datamemse.Designer.cs">datamemse.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="datamemse.resx">datamemse.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="datasup.cs">datasup.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="datasup.Designer.cs">datasup.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="datasup.resx">datasup.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="divem.cs">divem.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="divem.Designer.cs">divem.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="divem.resx">divem.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="divmem.cs">divmem.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="divmem.Designer.cs">divmem.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="divmem.resx">divmem.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="expen.cs">expen.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="expen.Designer.cs">expen.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="expen.resx">expen.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="global.cs">global.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="login.cs">login.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="login.Designer.cs">login.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="login.resx">login.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Mainem.cs">Mainem.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Mainem.Designer.cs">Mainem.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Mainem.resx">Mainem.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainem1.cs">mainem1.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainem1.Designer.cs">mainem1.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainem1.resx">mainem1.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainem3.cs">mainem3.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainem3.Designer.cs">mainem3.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainem3.resx">mainem3.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainem4.cs">mainem4.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainem4.Designer.cs">mainem4.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainem4.resx">mainem4.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Mainsp.cs">Mainsp.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Mainsp.Designer.cs">Mainsp.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Mainsp.resx">Mainsp.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainsp1.cs">mainsp1.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainsp1.Designer.cs">mainsp1.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainsp1.resx">mainsp1.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Mainsyn.cs">Mainsyn.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Mainsyn.Designer.cs">Mainsyn.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Mainsyn.resx">Mainsyn.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainsyn1.cs">mainsyn1.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainsyn1.Designer.cs">mainsyn1.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainsyn1.resx">mainsyn1.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainsyn2.cs">mainsyn2.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainsyn2.Designer.cs">mainsyn2.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainsyn2.resx">mainsyn2.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainsyn3.cs">mainsyn3.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainsyn3.Designer.cs">mainsyn3.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="mainsyn3.resx">mainsyn3.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="paydivm.cs">paydivm.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="paydivm.Designer.cs">paydivm.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="paydivm.resx">paydivm.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="paydivsyn.cs">paydivsyn.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="paydivsyn.Designer.cs">paydivsyn.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="paydivsyn.resx">paydivsyn.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="product.cs">product.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="product.Designer.cs">product.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="product.resx">product.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Program.cs">Program.cs</ProjectItem>
+      <Folder Name="Properties" TargetFolderName="Properties">
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.cs">Resources.Designer.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.cs">Settings.Designer.cs</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Recieve.cs">Recieve.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Recieve.Designer.cs">Recieve.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Recieve.resx">Recieve.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="regisem.cs">regisem.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="regisem.Designer.cs">regisem.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="regisem.resx">regisem.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="regismem.cs">regismem.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="regismem.Designer.cs">regismem.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="regismem.resx">regismem.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="regissyn.cs">regissyn.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="regissyn.Designer.cs">regissyn.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="regissyn.resx">regissyn.resx</ProjectItem>
+      <Folder Name="Resources" TargetFolderName="Resources" />
+      <ProjectItem ReplaceParameters="true" TargetFileName="sale.cs">sale.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="sale.Designer.cs">sale.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="sale.resx">sale.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="subdiv.cs">subdiv.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="subdiv.Designer.cs">subdiv.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="subdiv.resx">subdiv.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="supdetail.cs">supdetail.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="supdetail.Designer.cs">supdetail.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="supdetail.resx">supdetail.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="suppro.cs">suppro.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="suppro.Designer.cs">suppro.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="suppro.resx">suppro.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="synexpen.cs">synexpen.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="synexpen.Designer.cs">synexpen.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="synexpen.resx">synexpen.resx</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
