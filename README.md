@@ -7,8 +7,9 @@ This project is fully functional in the lists following below,but still need imp
 
 ![Relational Database](./relational.PNG?raw=true "Relational")
 </br>
-The system have functionalities inccluding the following 
-1.) Employee 
+The system have functionalities inccluding the following </br>
+
+1.) Employee : (username:thehug/password:555)
 * Store Management
   * Supplier Registration
   * Product Registration
@@ -24,7 +25,7 @@ The system have functionalities inccluding the following
   * Buy Stock Share
   * Sell Stock Share
  
-2.)Manager
+2.)Manager: (username:superman/password:12345678)
 * Member and Employee Data
   * Employeend Supervisor Data
   * Member Data
