@@ -2,7 +2,7 @@
 Retail Management using C#.Net and phpMyAdmin Database.</br>
 This project is a part of Database subject was built in 2017 (my 2nd year in Khon Kaen University)</br>
 
-This project is working functionally in the lists following below,but still need improve in many ways including security, clean code , dataase design , repeated code , user interface and lots more.
+This project is working functionally in the lists following below,but still need improve in many ways including security, clean code , database design , repeated code , user interface and lots more.
 </br>
 
 ![Relational Database](./relational.PNG?raw=true "Relational")
